@@ -56,6 +56,7 @@ Puedes instalarlas ejecutando:
 3.  Ejecuta el script principal celda por celda 
 ## 5. Resultados y Discusión
 La simulación de un día de verano (12 horas de sol) arrojó los siguientes resultados clave, considerando un espesor de panel de 0.004 :
+Las imagenes tambien las puedes encontrar por su nombre en los archivos del repositorio
 
 ### Perfil de Temperatura
 ![Temperatura Caras](images/temp_caras.png)
