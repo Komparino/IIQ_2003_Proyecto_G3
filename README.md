@@ -53,10 +53,7 @@ Puedes instalarlas ejecutando:
 ### Pasos para correr la simulación
 1.  Clona el repositorio o descarga los archivos.
 2.  Navega a la carpeta del proyecto en tu terminal.
-3.  Ejecuta el script principal (carpeta `código`):
-    ```bash
-    python src/main.py
-    ```
+3.  Ejecuta el script principal celda por celda 
 ## 5. Resultados y Discusión
 La simulación de un día de verano (12 horas de sol) arrojó los siguientes resultados clave, considerando un espesor de panel de 0.004 :
 
