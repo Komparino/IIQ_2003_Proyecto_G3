@@ -57,8 +57,6 @@ Puedes instalarlas ejecutando:
     ```bash
     python src/main.py
     ```
-4.  El programa generará los perfiles de temperatura y guardará los gráficos en la carpeta `images`.
-
 ## 5. Resultados y Discusión
 La simulación de un día de verano (12 horas de sol) arrojó los siguientes resultados clave, considerando un espesor de panel de 0.004 :
 
