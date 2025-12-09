@@ -13,10 +13,6 @@ El sistema modelado consiste en un panel fotovoltaico tratado como una placa só
     * **Cara Frontal ($z=0$):** Recibe radiación solar variable $G(t)$ y pierde energía por generación eléctrica.
     * **Cara Posterior ($z=Z$):** Disipa calor por convección natural hacia el ambiente según la ley de enfriamiento de Newton.
 
-### Esquema del Modelo
-![Esquema del Modelo 1D](images/esquema_modelo.png)
-*(Figura 1 del informe: Esquema de balance de energía en el espesor)*
-
 ### Supuestos Adoptados
 Para el modelo matemático se consideraron las siguientes simplificaciones:
 1.  **Modelo 1D:** Se desprecia la conducción en los ejes $x$ e $y$ ($L, W >> Z$).
@@ -61,7 +57,6 @@ Puedes instalarlas ejecutando:
     ```bash
     python src/main.py
     ```
-    *(Nota: Ajusta la ruta si tu archivo se llama diferente)*
 4.  El programa generará los perfiles de temperatura y guardará los gráficos en la carpeta `images`.
 
 ## 5. Resultados y Discusión
